@@ -21,13 +21,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+* item 1
+* item 2
+* item... 3!
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-* item 1
-* item 2
-* item... 3!
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
